@@ -62,4 +62,5 @@ const CanvasEditor = () => {
   );
 }
 
+
 export default CanvasEditor;
